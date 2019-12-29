@@ -13,7 +13,7 @@
 
 ### Manual
 
-- [Download](https://github.com/AlphaCortex/Rainmeter-Skins/archive/master.zip) the whole repository and extract the Folder to your Rainmeter Skins folder `%USER%\Documents\Rainmeter\Skins\`
+- [Download](https://github.com/AlphaCortex/Rainmeter-Skins/archive/master.zip) the whole repository and extract the folder to your Rainmeter skins folder `%USER%\Documents\Rainmeter\Skins\`
 ---
 
 ## Optional
